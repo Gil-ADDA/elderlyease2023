@@ -13,6 +13,8 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 
 
 ## The App
+## Persona
+# Features and Benefits
 
 ### Built with:
 
@@ -37,6 +39,7 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 | provider | ^6.0.5 | A Flutter package for state management, which manages widget dependencies and updating their state automatically |
 | shared_preferences | ^2.1.0 | A Flutter plugin for reading and writing simple key-value pairs to and from persistent storage|
 
+## Future work
 ## Contact Details
 
 <a href="[https://twitter.com/hey_haiden](https://twitter.com/hey_haiden)"><img src="[https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png](https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png)" width="60"></a>
