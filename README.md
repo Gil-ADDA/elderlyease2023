@@ -42,5 +42,5 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 ## Future work
 ## Contact Details
 
-<a href="[https://twitter.com/hey_haiden](https://twitter.com/hey_haiden)"><img src="[https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png](https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png)" width="60"></a>
-<a href="[https://www.linkedin.com/in/haidenmcgill/](https://www.linkedin.com/in/haidenmcgill/)"><img src="[https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png](https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png)" width="60"></a>
+[<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:giloo1047@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/gil-adda-16385510b/)
