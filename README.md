@@ -27,6 +27,7 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 
 ### Video Preview
 
+[![Video Review](https://img.youtube.com/vi/ljsWJjbXzJY/0.jpg)](https://www.youtube.com/watch?v=ljsWJjbXzJY)
 
 ## How to Install
 
