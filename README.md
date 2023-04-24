@@ -51,3 +51,14 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:giloo1047@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/gil-adda-16385510b/)
+
+
+## Refrences
+Cunha, B.C.R., Rodrigues, K.R.H., & Pimentel, M.G.C. (2019). Synthesizing guidelines for facilitating elderly-smartphone interaction.  (pp. 1-12). ACM Digital Library. https://doi.org/10.1145/3323503.3349563 (Accessed on April 20, 2023).
+Levdikova, T. (2019). Designing Apps for Elderly Smartphone Users. Clutch.co. Retrieved April 10, 2023, from https://clutch.co/app-development/resources/designing-apps-for-elderly-smartphone-users
+
+Iancu, I., & Iancu, B. (2020). Designing mobile technology for elderly: A theoretical overview. Technological Forecasting and Social Change, 155, 119977. https://doi.org/10.1016/j.techfore.2020.119977. Accessed April 20, 2023.
+
+Gerling, K. M., Schild, J., & Masuch, M. (2011). Exergame design for elderly users: the case study of SilverBalance.(pp. 66-69). ACM. https://doi.org/10.1145/1971630.1971650 Accessed on March 2, 2023.
+
+Wijnand IJsselsteijn, Henk Herman Nap, Yvonne de Kort, Karolien Poels. (2007, November 14). Digital Game Design for Elderly Users. https://doi.org/10.1145/1328202.1328206. Accessed on March 2, 2023.
