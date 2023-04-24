@@ -54,7 +54,8 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 
 
 ## Refrences
-Cunha, B.C.R., Rodrigues, K.R.H., & Pimentel, M.G.C. (2019). Synthesizing guidelines for facilitating elderly-smartphone interaction.  (pp. 1-12). ACM Digital Library. https://doi.org/10.1145/3323503.3349563 (Accessed on April 20, 2023).
+Cunha, B.C.R., Rodrigues, K.R.H., & Pimentel, M.G.C. (2019). Synthesizing guidelines for facilitating elderly-smartphone interaction.  (pp. 1-12). ACM Digital Library. https://doi.org/10.1145/3323503.3349563 Accessed on April 20, 2023.
+
 Levdikova, T. (2019). Designing Apps for Elderly Smartphone Users. Clutch.co. Retrieved April 10, 2023, from https://clutch.co/app-development/resources/designing-apps-for-elderly-smartphone-users
 
 Iancu, I., & Iancu, B. (2020). Designing mobile technology for elderly: A theoretical overview. Technological Forecasting and Social Change, 155, 119977. https://doi.org/10.1016/j.techfore.2020.119977. Accessed April 20, 2023.
