@@ -76,7 +76,7 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 [![Video Review](https://img.youtube.com/vi/ljsWJjbXzJY/0.jpg)](https://www.youtube.com/watch?v=ljsWJjbXzJY)
 
 ## Workspcae 
-Flutter  <br> <img src="https://flutter.dev/assets/tools/vs-code/android-studio-logo.png" width="20" height="20">
+![Flutter Logo](https://flutter.dev/assets/flutter-lockup.png)
 Firebase CLI <br> <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="20" height="20">
 VS Code <br> <img src="https://code.visualstudio.com/favicon.ico" width="20" height="20">
 
