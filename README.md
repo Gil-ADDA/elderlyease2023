@@ -1,6 +1,12 @@
 # elderlyease2023
 Empower elderly population with our user-friendly mobile app that helps them better use home appliances. With features like dark mode, large text, and a chatbot, our app ensures digital inclusion and accessibility for all. Say goodbye to appliance usage problems with our simple and effective solution.
 
+ElderlyEase app was designed with the principle of considering health challenges faced by the elderly. This was done by following relevant research on the design principles and features needed to fulfill the needs of older adults in assistive technology. By incorporating these principles, the app is user-friendly, accessible, and functional for the elderly. This ultimately leads to a better user experience and improves the quality of life for the elderly who use it.
+
+The global population is aging, leading to an increased need for healthcare services and assistive living for the elderly.
+The number of people over 65 years old is predicted to increase significantly, leading to a rising demand for healthcare, assistive living, and independent living for the elderly.
+By 2050, the global population of individuals over 65 years old will increase from 530 million to 1.5 billion.
+
 
 # git hub code
 
