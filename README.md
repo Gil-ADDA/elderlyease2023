@@ -27,16 +27,16 @@ This is a persona of a typical user for my project.
 *Dark mode:*  A setting that makes the background of the app dark to reduce eye strain and make it easier to see the text.
 
 *Contrast:* High contrast between text and background to make it easier to read.
-<img src="https://img.icons8.com/material-sharp/50/000000/contrast.png"/>
+
 *Accessibility:* The app is designed to be accessible to users with disabilities, such as those with impaired vision or motor skills.
-<img src="https://img.icons8.com/material-sharp/50/000000/accessibility.png"/>
+
 
 *Large text:* A feature that allows the user to increase the size of the text in the app to make it easier to read.
 
 *Easy navigation:* A simple and intuitive interface that makes it easy for elderly users to navigate the app.
 
 *Chatbot:* A virtual assistant that can help users troubleshoot problems and answer questions they may have about their appliances.
-<img src="https://img.icons8.com/ios/50/000000/chat-bot.png"/>
+
 
 
 *Simple content:* A small amount of content on each page to reduce cognitive overload and make it easier for users to understand.
