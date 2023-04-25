@@ -53,9 +53,13 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 ### Built with:
 <p align="left">
   <a href="https://github.com/openai/gpt-3" target="_blank"><img src="https://img.shields.io/badge/-ChatGPT-181717?style=flat-square&logo=OpenAI&logoColor=white"></a>
+  
   <a href="https://quicktype.io/" target="_blank"><img src="https://img.shields.io/badge/-Quicktype-181717?style=flat-square&logo=QuickType&logoColor=white"></a>
+  
   <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/-Flutter-181717?style=flat-square&logo=Flutter&logoColor=white"></a>
+  
   <a href="https://www.sketch.com/" target="_blank"><img src="https://img.shields.io/badge/-Freeform-181717?style=flat-square&logo=Sketch&logoColor=white"></a>
+  
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=Firebase&logoColor=white"></a>
 </p>
 
