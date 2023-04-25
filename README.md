@@ -4,6 +4,13 @@
     <h1><a href="https://github.com/Gil-ADDA/elderlyease2023">Github Repository Link</a></h1>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Gil-ADDA/elderlyease2023">
+    <h1><b>Github Repository Link</b></h1>
+  </a>
+</p>
+
 <a href="https://github.com/Gil-ADDA/elderlyease2023">Github Repository Link</a>
 
 
