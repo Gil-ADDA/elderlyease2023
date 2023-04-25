@@ -18,12 +18,16 @@ By 2050, the global population of individuals over 65 years old will increase fr
 
 ![Screenshot 2023-04-25 at 09.24.31](Photos/Screenshot%202023-04-25%20at%2009.24.31.png)
 ![Screenshot 2023-04-25 at 09.24.45](Photos/Screenshot%202023-04-25%20at%2009.24.45.png)
-![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
+
 ## Persona
 ![Elderlyease Personaa](Photos/Elderlyease%20Personaa.png)
 This is a persona of a typical user for my project.
 
 # Features and Benefits
+Firebase Authentication with full name and phone number 
+![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
+
+A chatbot built on Chat GPT technology can provide assistance for users with varying degrees of understanding. From simple questions to more complex issues, a Chat GPT-based chatbot can deliver fast, personalized, and convenient support to users.
 
 ### Built with:
 <p align="left">
@@ -38,10 +42,11 @@ This is a persona of a typical user for my project.
 
 [![Video Review](https://img.youtube.com/vi/ljsWJjbXzJY/0.jpg)](https://www.youtube.com/watch?v=ljsWJjbXzJY)
 
-## How to Install
+## Workspcae 
 
-1. Set up [Flutter](https://docs.flutter.dev/get-started/install?gclid=CjwKCAjwrpOiBhBVEiwA_473dEAxiLj1v1zfJi601lvxA4a9l5qxszzMT83qlJK_O_HbWxxZ_m51IxoC8rMQAvD_BwE&gclsrc=aw.ds)
-2. Set up [Firebase CLI](https://firebase.google.com/docs/flutter/setup?platform=ios)
+Install Flutter <img src="https://flutter.dev/assets/tools/vs-code/android-studio-logo.png" width="20" height="20"> by following the instructions on the Flutter website.
+Install the Firebase CLI <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="20" height="20"> by following the instructions on the Firebase documentation.
+Install VS Code <img src="https://code.visualstudio.com/favicon.ico" width="20" height="20"> and configure it for Flutter development.
 
 
 | Dependency | Version | Description |
