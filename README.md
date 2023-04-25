@@ -14,7 +14,7 @@ Empower elderly population with our user-friendly mobile app that helps them bet
 
 ## The App
 ## Persona
-![Elderlyease Persona](./images/Elderlyease%20Persona.png)
+![Elderlyease Personaa](./images/Elderlyease%20Personaa.png)
 
 This is a persona of a typical user for my project.
 
