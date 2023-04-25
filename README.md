@@ -60,6 +60,10 @@ VS Code <br> <img src="https://code.visualstudio.com/favicon.ico" width="20" hei
 | provider | ^6.0.5 | A Flutter package for state management, which manages widget dependencies and updating their state automatically |
 | shared_preferences | ^2.1.0 | A Flutter plugin for reading and writing simple key-value pairs to and from persistent storage|
 
+
+## Challanges
+The biggest challenges in this project were building the chatbot and developing its underlying logic, as well as implementing the dark mode feature for the app.
+
 ## Future work
 ## Contact Details
 
