@@ -22,7 +22,9 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Wireframes
 
-
+![Screenshot 2023-04-25 at 09.24.31](Photos/Screenshot%202023-04-25%20at%2009.24.31.png)
+![Screenshot 2023-04-25 at 09.24.45](Photos/Screenshot%202023-04-25%20at%2009.24.45.png)
+![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
 
 ## The App
 ## Persona
