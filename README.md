@@ -1,4 +1,11 @@
-# elderlyease2023
+# ElderlyEase2023: An Accessible Mobile App for the Elderly
+
+## Getting Started
+With the growing technology and an increasingly digital world, older people face difficulties in using appliances and technology. These challenges can range from navigating complex menus and buttons, to simply understanding the instructions. As a result, many older people feel left behind and excluded from the benefits that technology can bring.
+
+With my personal experience and volunteer work, I realized the need for a solution that addresses these challenges and makes technology accessible to everyone, regardless of age. This is why I am creating ElderlyEase, a hub of support that helps older people to use their appliances with ease and confidence.  By providing a user-friendly interface and targeted support, ElderlyEase aims to break down the barriers that older people face when it comes to technology.
+
+
 Empower elderly population with our user-friendly mobile app that helps them better use home appliances. With features like dark mode, large text, and a chatbot, our app ensures digital inclusion and accessibility for all. Say goodbye to appliance usage problems with our simple and effective solution.
 
 ElderlyEase app was designed with the principle of considering health challenges faced by the elderly. This was done by following relevant research on the design principles and features needed to fulfill the needs of older adults in assistive technology. By incorporating these principles, the app is user-friendly, accessible, and functional for the elderly. This ultimately leads to a better user experience and improves the quality of life for the elderly who use it.
@@ -11,10 +18,6 @@ By 2050, the global population of individuals over 65 years old will increase fr
 
 ## Problem statment 
 Older adults often struggle with using modern appliances, leading to frustration and dependence on others. The aim of ElderlyEase is to provide a solution to this problem by creating a comprehensive hub of support and resources to help older adults effectively use their appliance. With ElderlyEase, older adults can regain their independence and live a more convenient and comfortable life.
-## Getting Started
-With the growing technology and an increasingly digital world, older people face difficulties in using appliances and technology. These challenges can range from navigating complex menus and buttons, to simply understanding the instructions. As a result, many older people feel left behind and excluded from the benefits that technology can bring.
-
-With my personal experience and volunteer work, I realized the need for a solution that addresses these challenges and makes technology accessible to everyone, regardless of age. This is why I am creating ElderlyEase, a hub of support that helps older people to use their appliances with ease and confidence.  By providing a user-friendly interface and targeted support, ElderlyEase aims to break down the barriers that older people face when it comes to technology.
 
 ## Wireframes
 
