@@ -18,6 +18,8 @@ With my personal experience and volunteer work, I realized the need for a soluti
 
 ## Wireframes
 
+The wireframes were created using Freeform after a brainstorming session where the initial sketches were drawn on paper. The wireframes consist of 5 screens, with the first being a login page for authentication. The second screen presents the options for the user to choose from a list of appliances, scan a QR code, or use the Chatbot (which was changed later on) for assistance. The main page displays a list of all the appliances and their respective icons. The final screen provides step-by-step instructions for troubleshooting the selected appliance. Throughout the wireframes, a minimalist approach was taken with large widgets and buttons and minimal content on each screen.
+
 <div style="display: flex; justify-content: center;">
   <img src="Photos/Screenshot%202023-04-25%20at%2009.24.31.png" alt="Screenshot 1" width="500" style="border-radius: 20px;">
   <img src="Photos/Screenshot%202023-04-25%20at%2009.24.45.png" alt="Screenshot 2" width="500" style="border-radius: 20px;">
