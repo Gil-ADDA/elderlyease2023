@@ -1,26 +1,23 @@
 # ElderlyEase2023: An Accessible Mobile App for the Elderly
 
 ## Getting Started
+The global population is aging, leading to an increased need for healthcare services and assistive living for the elderly.
+The number of people over 65 years old is predicted to increase significantly, leading to a rising demand for healthcare, assistive living, and independent living for the elderly.
+By 2050, the global population of individuals over 65 years old will increase from 530 million to 1.5 billion.
+
 With the growing technology and an increasingly digital world, older people face difficulties in using appliances and technology. These challenges can range from navigating complex menus and buttons, to simply understanding the instructions. As a result, many older people feel left behind and excluded from the benefits that technology can bring.
 
 With my personal experience and volunteer work, I realized the need for a solution that addresses these challenges and makes technology accessible to everyone, regardless of age. This is why I am creating ElderlyEase, a hub of support that helps older people to use their appliances with ease and confidence.  By providing a user-friendly interface and targeted support, ElderlyEase aims to break down the barriers that older people face when it comes to technology.
-
 
 Empower elderly population with our user-friendly mobile app that helps them better use home appliances. With features like dark mode, large text, and a chatbot, our app ensures digital inclusion and accessibility for all. Say goodbye to appliance usage problems with our simple and effective solution.
 
 ElderlyEase app was designed with the principle of considering health challenges faced by the elderly. This was done by following relevant research on the design principles and features needed to fulfill the needs of older adults in assistive technology. By incorporating these principles, the app is user-friendly, accessible, and functional for the elderly. This ultimately leads to a better user experience and improves the quality of life for the elderly who use it.
 A new Flutter project.
 
-The global population is aging, leading to an increased need for healthcare services and assistive living for the elderly.
-The number of people over 65 years old is predicted to increase significantly, leading to a rising demand for healthcare, assistive living, and independent living for the elderly.
-By 2050, the global population of individuals over 65 years old will increase from 530 million to 1.5 billion.
-
-
 ## Problem statment 
 Older adults often struggle with using modern appliances, leading to frustration and dependence on others. The aim of ElderlyEase is to provide a solution to this problem by creating a comprehensive hub of support and resources to help older adults effectively use their appliance. With ElderlyEase, older adults can regain their independence and live a more convenient and comfortable life.
 
 ## Wireframes
-
 The wireframes were created using Freeform after a brainstorming session where the initial sketches were drawn on paper. The wireframes consist of 5 screens, with the first being a login page for authentication. The second screen presents the options for the user to choose from a list of appliances, scan a QR code, or use the Chatbot (which was changed later on) for assistance. The main page displays a list of all the appliances and their respective icons. The final screen provides step-by-step instructions for troubleshooting the selected appliance. Throughout the wireframes, a minimalist approach was taken with large widgets and buttons and minimal content on each screen.
 
 <div style="display: flex; justify-content: center;">
@@ -38,12 +35,12 @@ The wireframes were created using Freeform after a brainstorming session where t
 </p>
 
 ## Persona
+Martha is a 75-year-old retiree living in California. She values her independence and wants to be able to easily use her appliances without relying on her family or friends. She is motivated by convenience and finds it challenging to use appliances with confusing instructions and difficult-to-navigate features.
 
 <p align="center">
   <img src="Photos/Elderlyease%20Personaa.png" alt="Elderlyease Persona" width="600">
 </p>
 
-Martha is a 75-year-old retiree living in California. She values her independence and wants to be able to easily use her appliances without relying on her family or friends. She is motivated by convenience and finds it challenging to use appliances with confusing instructions and difficult-to-navigate features.
 
 # Features and Benefits
 *Dark mode:*  A setting that makes the background of the app dark to reduce eye strain and make it easier to see the text.
@@ -65,12 +62,11 @@ Martha is a 75-year-old retiree living in California. She values her independenc
 
 
 
+*Firebase Authentication with full name and phone number*
+The screenshots showcase the data stored in the Firebase Cloud Firestore database. The panel view displays the collections and documents created within the database, including the user data such as their name and phone number.
 
 ![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
-* Firebase Authentication with full name and phone number 
 
-
-The screenshots showcase the data stored in the Firebase Cloud Firestore database. The panel view displays the collections and documents created within the database, including the user data such as their name and phone number.
 
 
 ### Built with:
