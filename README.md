@@ -24,8 +24,27 @@ By 2050, the global population of individuals over 65 years old will increase fr
 This is a persona of a typical user for my project.
 
 # Features and Benefits
+Dark mode: A setting that makes the background of the app dark to reduce eye strain and make it easier to see the text.
+
+Contrast: High contrast between text and background to make it easier to read.
+
+Accessibility: The app is designed to be accessible to users with disabilities, such as those with impaired vision or motor skills.
+
+Large text: A feature that allows the user to increase the size of the text in the app to make it easier to read.
+
+Easy navigation: A simple and intuitive interface that makes it easy for elderly users to navigate the app.
+
+
+Chatbot: A virtual assistant that can help users troubleshoot problems and answer questions they may have about their appliances.
+
+Simple content: A small amount of content on each page to reduce cognitive overload and make it easier for users to understand.
+
+
+
 Firebase Authentication with full name and phone number 
 ![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
+
+
 
 A chatbot built on Chat GPT technology can provide assistance for users with varying degrees of understanding. From simple questions to more complex issues, a Chat GPT-based chatbot can deliver fast, personalized, and convenient support to users.
 
