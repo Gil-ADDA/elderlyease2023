@@ -104,6 +104,34 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 The biggest challenges in this project were building the chatbot and developing its underlying logic, as well as implementing the dark mode feature for the app.
 
 ## Future work
+
+
+
+## More explanation
+# Technical Overview of ElderlyEase2023: An In-Depth Look at the Code
+1. main.dart
+For initializes the Firebase app, sets up a custom theme, and launches the register page as the home screen. The theme is controlled by a ThemeProvider class that is listened to by a Consumer widget. The Consumer widget updates the MaterialApp widget with the latest theme data whenever the theme changes.
+2. login.dart
+This document defines a LoginPage widget that extends the StatefulWidget class and contains a build method that returns a Scaffold widget with a form for entering a phone number. The LoginPage widget also has an inner state class, _LoginPageState, that keeps track of the phone number of the user. The ElevatedButton widget can be used to send an OTP to the entered phone number or verify the entered OTP, based on the value of showOtpField.
+
+3. home_page.dart
+The home page  the widget that called build that returns a Scaffold widget. The Scaffold contains a custom drawer, an AppBar with a title, leading icon, and an icon theme, and a body with a SafeArea widget. The SafeArea contains a Column widget with a text, a divider, and an expanded GridView widget. The GridView is built using the GridView.builder method and displays boxes representing different appliances. Each box is a GestureDetector that shows an alert dialog when tapped and navigates to an AppianceProcess screen when confirmed. The theme change is obtained using Provider.of and used in the custom drawer. The code use variables and data structures such as lists and maps.
+
+
+
+4. theme_provider.dart
+This widget provides a theme for the app and allows for switching between a dark and light theme. The theme state is persisted across app launches using the DarkthemeSave object. The ChangeNotifier class is used to notify other widgets when the theme changes.
+5.darkthemesave.dart
+This include the class that provides methods to save and retrieve the status of a dark theme setting using SharedPreferences.
+
+6. custom_style.dart
+Custom style is mainlly for implimanting the Styles class, which provides a method to return a ThemeData object with various color and brightness settings based on whether a dark theme or light theme.
+
+7. custom_drawer.dart
+That for implementation of the Drawer widget that provides a menu for navigation within the app and has a switch tile for changing the theme. It uses the Navigator widget to navigate to different pages.
+
+8. chat_model.dart
+
 ## Contact Details
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:giloo1047@gmail.com)
