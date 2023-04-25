@@ -16,10 +16,6 @@ With the growing technology and an increasingly digital world, older people face
 
 With my personal experience and volunteer work, I realized the need for a solution that addresses these challenges and makes technology accessible to everyone, regardless of age. This is why I am creating ElderlyEase, a hub of support that helps older people to use their appliances with ease and confidence.  By providing a user-friendly interface and targeted support, ElderlyEase aims to break down the barriers that older people face when it comes to technology.
 
-
-# git hub code
-
-
 ## Wireframes
 
 <div style="display: flex; justify-content: center;">
@@ -108,7 +104,7 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 
 
 ## Challanges
-The biggest challenges in this project were building the chatbot and developing its underlying logic, as well as implementing the dark mode feature for the app.
+The biggest challenges in building this app was integrating the different components, such as the user interface (UI) and the backend, which includes the Firebase database and the chat GPT and developing its underlying logic, as well as implementing the dark mode feature for the app. 
 
 ## Future work
 The future of the app includes analyzing the behavior and needs of the elderly population, and also providing interactive and engaging solutions to common problems they may face with their appliances. This includes implementing voice-based instructions, adding more visual aids such as images, and making the troubleshooting process more user-friendly. The goal is to make technology more accessible and understandable for older adults, allowing them to live more independently and efficiently.
