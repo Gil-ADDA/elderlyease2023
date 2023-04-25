@@ -7,6 +7,7 @@
 </p>
 
 
+
 ## Getting Started
 The global population is aging, leading to an increased need for healthcare services and assistive living for the elderly.
 The number of people over 65 years old is predicted to increase significantly, leading to a rising demand for healthcare, assistive living, and independent living for the elderly.
