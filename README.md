@@ -43,10 +43,9 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 [![Video Review](https://img.youtube.com/vi/ljsWJjbXzJY/0.jpg)](https://www.youtube.com/watch?v=ljsWJjbXzJY)
 
 ## Workspcae 
-
-Install Flutter <img src="https://flutter.dev/assets/tools/vs-code/android-studio-logo.png" width="20" height="20"> by following the instructions on the Flutter website.
-Install the Firebase CLI <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="20" height="20"> by following the instructions on the Firebase documentation.
-Install VS Code <img src="https://code.visualstudio.com/favicon.ico" width="20" height="20"> and configure it for Flutter development.
+Flutter  <br> <img src="https://flutter.dev/assets/tools/vs-code/android-studio-logo.png" width="20" height="20">
+Firebase CLI <br> <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="20" height="20">
+VS Code <br> <img src="https://code.visualstudio.com/favicon.ico" width="20" height="20">
 
 
 | Dependency | Version | Description |
