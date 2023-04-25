@@ -18,20 +18,14 @@ By 2050, the global population of individuals over 65 years old will increase fr
 
 ![Screenshot 2023-04-25 at 09.24.31](Photos/Screenshot%202023-04-25%20at%2009.24.31.png)
 ![Screenshot 2023-04-25 at 09.24.45](Photos/Screenshot%202023-04-25%20at%2009.24.45.png)
-
-<table>
-  <tr>
-    <td><img src="Photos/Hotpot%0.png" alt="Hotpot Image 1"></td>
-    <td><img src="Photos/Hotpot%1.png" alt="Hotpot Image 2"></td>
-    <td><img src="Photos/Hotpot%2.png" alt="Hotpot Image 3"></td>
-  </tr>
-  <tr>
-    <td><img src="Photos/Hotpot%3.png" alt="Hotpot Image 4"></td>
-    <td><img src="Photos/Hotpot%4.png" alt="Hotpot Image 5"></td>
-    <td><img src="Photos/Hotpot%5.png" alt="Hotpot Image 6"></td>
-  </tr>
-</table>
-
+<div style="display:flex;">
+    <div style="flex:1;padding-right:5px;"><img src="Photos/Hotpot 0.png" alt="Hotpot Image 1"></div>
+    <div style="flex:1;padding-right:5px;"><img src="Photos/Hotpot 1.png" alt="Hotpot Image 2"></div>
+    <div style="flex:1;padding-right:5px;"><img src="Photos/Hotpot 2.png" alt="Hotpot Image 3"></div>
+    <div style="flex:1;padding-right:5px;"><img src="Photos/Hotpot 3.png" alt="Hotpot Image 4"></div>
+    <div style="flex:1;padding-right:5px;"><img src="Photos/Hotpot 4.png" alt="Hotpot Image 5"></div>
+    <div style="flex:1;"><img src="Photos/Hotpot 5.png" alt="Hotpot Image 6"></div>
+</div>
 ## Persona
 ![Elderlyease Personaa](Photos/Elderlyease%20Personaa.png)
 This is a persona of a typical user for my project.
