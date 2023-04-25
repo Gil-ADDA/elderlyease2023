@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540472621516",
+    "project_id": "elderlyease2023",
+    "storage_bucket": "elderlyease2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540472621516:android:899b4b6620727a16fa0569",
+        "android_client_info": {
+          "package_name": "com.example.elderlyease2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540472621516-paco28kfp05i2vtdr0janh2e6r8mu3st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoK8clYn4inpGdSINRw2X2g_xhXpcfUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540472621516-paco28kfp05i2vtdr0janh2e6r8mu3st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xxhdpi_elderlyease_logo.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xxhdpi/elderlyease_logo.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/drawable_launch_background.xml.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-hdpi_elderlyease_logo.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-hdpi/elderlyease_logo.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-mdpi_elderlyease_logo.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-mdpi/elderlyease_logo.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xhdpi_elderlyease_logo.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xhdpi/elderlyease_logo.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-xxxhdpi_elderlyease_logo.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-xxxhdpi/elderlyease_logo.png"
+    },
+    {
+        "merged": "com.example.elderlyease2023.app-merged_res-16:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.elderlyease2023.app-main-9:/mipmap-mdpi/launcher_icon.png"
+    }
+]
