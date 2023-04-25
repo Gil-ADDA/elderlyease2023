@@ -62,12 +62,12 @@ Martha is a 75-year-old retiree living in California. She values her independenc
 
 
 
-Firebase Authentication with full name and phone number 
+
 ![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
-
-
-
+* Firebase Authentication with full name and phone number 
+The following screenshots showcase the data and analytics captured by Firebase, providing insight into the app's usage and performance. The data stored in the Firebase database includes information about the user, such as their name and phone number. This information is used to personalize the user's experience within the app and track their progress as they use the app. 
 A chatbot built on Chat GPT technology can provide assistance for users with varying degrees of understanding. From simple questions to more complex issues, a Chat GPT-based chatbot can deliver fast, personalized, and convenient support to users.
+
 
 ### Built with:
 <p align="left">
