@@ -132,6 +132,24 @@ That for implementation of the Drawer widget that provides a menu for navigation
 
 8. chat_model.dart
 
+In the  Chat model defines several classes to parse JSON data and encodes that into  Dart objects. The main class is ChatRespoinse which represents a response from a chat API. The class has several properties: id, object, created, model, usage, and choices. The choices property is a list of Choice objects containing a Message object and a finishReason string. The Usage class represents the usage information for the chat API response.
+
+Regarding the use of Quicktype, it is a tool that generates code for parsing JSON data. In this case, the code was generated using quicktype.io to parse the JSON data into Dart objects, making it easier to work with the data in the application. 
+
+9. appliance_process.dart
+In this part the class AppianceProcess allows users to get help with fixing a specific appliance. The class creates a state object _AppianceProcessState that holds the logic for the user interface and implements the function fetchData to send a request to the chatGPT API for getting personalise help.
+
+showDialog function is used to display an AlertDialog widget in response to a user interaction, such as clicking the "ASK FOR HELP" button.
+
+This function ${widget.mainTitle} ${searchController.text.isEmpty ? " i need help with using it in 100 words" : searchController.text} in 100 words" is used for the API request sent by the fetchData function. This formed by combining the widget.mainTitle and the contents of the searchController text field, or the prompt " i need help with using it in 100 words" if the text field is empty, for creating a dynamic string.
+
+10. appliance_model.dart
+That is the part of appliances model is defines a class named ApplianceModel which has three properties: title, image, and steps. Then it creates a list named category containing multiple instances of the ApplianceModel class. Each instance has a different title, image, and a list of steps associated with it. The steps represent the instructions for using a specific appliance, such as a TV, oven, refrigerator etc.
+
+11. register_page.dart
+This page connect to the login page and the RegisterPage widget is for allows to users enter their name and phone number and store that information in a Firebase Firestore database. The widget includes a form that uses a TextFormField for each input, and a MaterialButton to submit the form. The TextFormFields have validators to ensure that the user has entered a value, and the MaterialButton submits the form to the database and then navigates to the home page.
+Moreover, the RegisterPage widget also uses the NetworkImage class to display an image from a URL as the background, which allows the app to dynamically retrieve the image from the internet. That also was useful to distinguish if the phone connects to the network. 
+
 ## Contact Details
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:giloo1047@gmail.com)
