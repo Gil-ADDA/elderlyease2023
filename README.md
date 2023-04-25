@@ -26,7 +26,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ## The App
 ## Persona
-![Elderlyease Personaa](Photos/Elderlyease%Personaa.png)
+![Elderlyease Personaa](Photos/Elderlyease%20Personaa.png)
 
 This is a persona of a typical user for my project.
 
