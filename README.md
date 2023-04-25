@@ -16,8 +16,11 @@ By 2050, the global population of individuals over 65 years old will increase fr
 
 ## Wireframes
 
-<img src="Photos/Screenshot%202023-04-25%20at%2009.24.31.png" alt="Screenshot 1" width="500" style="border-radius: 20px;">
-<img src="Photos/Screenshot%202023-04-25%20at%2009.24.45.png" alt="Screenshot 2" width="500" style="border-radius: 20px;">
+<div style="display: flex; justify-content: center;">
+  <img src="Photos/Screenshot%202023-04-25%20at%2009.24.31.png" alt="Screenshot 1" width="500" style="border-radius: 20px;">
+  <img src="Photos/Screenshot%202023-04-25%20at%2009.24.45.png" alt="Screenshot 2" width="500" style="border-radius: 20px;">
+</div>
+
 <p align="center">
   <img src="Photos/Hotpot 0.png" width="250" alt="Hotpot Image 1" style="display:inline-block">
   <img src="Photos/Hotpot 1.png" width="250" alt="Hotpot Image 2" style="display:inline-block">
