@@ -1,10 +1,10 @@
 # ElderlyEase2023: An Accessible Mobile App for the Elderly
-
 <p align="center">
   <a href="https://github.com/Gil-ADDA/elderlyease2023">
-    <h1><b>Github Repository Link</b></h1>
+    <h1><b>Github Repository Link: https://github.com/Gil-ADDA/elderlyease2023</b></h1>
   </a>
 </p>
+
 
 
 
