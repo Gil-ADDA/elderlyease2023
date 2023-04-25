@@ -31,7 +31,10 @@ By 2050, the global population of individuals over 65 years old will increase fr
 </p>
 
 ## Persona
-<img src="Photos/Elderlyease%20Personaa.png" alt="Elderlyease Persona" width="600">
+<div style="display: flex; justify-content: center;">
+  <img src="Photos/Elderlyease%20Personaa.png" alt="Elderlyease Persona" width="600">
+</div>
+
 This is a persona of a typical user for my project.
 
 # Features and Benefits
