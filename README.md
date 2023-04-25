@@ -9,15 +9,9 @@ The number of people over 65 years old is predicted to increase significantly, l
 By 2050, the global population of individuals over 65 years old will increase from 530 million to 1.5 billion.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 # git hub code
-A few resources to get you started if this is your first Flutter project:
-
-# elderlyease2023:
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
 
 
 ## Wireframes
@@ -25,10 +19,11 @@ A few resources to get you started if this is your first Flutter project:
 ![Screenshot 2023-04-25 at 09.24.31](Photos/Screenshot%202023-04-25%20at%2009.24.31.png)
 ![Screenshot 2023-04-25 at 09.24.45](Photos/Screenshot%202023-04-25%20at%2009.24.45.png)
 ![Screenshot 2023-04-25 at 09.29.22](Photos/Screenshot%202023-04-25%20at%2009.29.22.png)
-
-## The App
 ## Persona
 ![Elderlyease Personaa](Photos/Elderlyease%20Personaa.png)
+
+## The App
+
 
 This is a persona of a typical user for my project.
 
