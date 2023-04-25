@@ -7,8 +7,14 @@ A new Flutter project.
 The global population is aging, leading to an increased need for healthcare services and assistive living for the elderly.
 The number of people over 65 years old is predicted to increase significantly, leading to a rising demand for healthcare, assistive living, and independent living for the elderly.
 By 2050, the global population of individuals over 65 years old will increase from 530 million to 1.5 billion.
-## Getting Started
 
+
+## Problem statment 
+Older adults often struggle with using modern appliances, leading to frustration and dependence on others. The aim of ElderlyEase is to provide a solution to this problem by creating a comprehensive hub of support and resources to help older adults effectively use their appliance. With ElderlyEase, older adults can regain their independence and live a more convenient and comfortable life.
+## Getting Started
+With the growing technology and an increasingly digital world, older people face difficulties in using appliances and technology. These challenges can range from navigating complex menus and buttons, to simply understanding the instructions. As a result, many older people feel left behind and excluded from the benefits that technology can bring.
+
+With my personal experience and volunteer work, I realized the need for a solution that addresses these challenges and makes technology accessible to everyone, regardless of age. This is why I am creating ElderlyEase, a hub of support that helps older people to use their appliances with ease and confidence.  By providing a user-friendly interface and targeted support, ElderlyEase aims to break down the barriers that older people face when it comes to technology.
 
 
 # git hub code
@@ -35,7 +41,8 @@ By 2050, the global population of individuals over 65 years old will increase fr
 <p align="center">
   <img src="Photos/Elderlyease%20Personaa.png" alt="Elderlyease Persona" width="600">
 </p>
-This is a persona of a typical user for my project.
+
+Martha is a 75-year-old retiree living in California. She values her independence and wants to be able to easily use her appliances without relying on her family or friends. She is motivated by convenience and finds it challenging to use appliances with confusing instructions and difficult-to-navigate features.
 
 # Features and Benefits
 *Dark mode:*  A setting that makes the background of the app dark to reduce eye strain and make it easier to see the text.
@@ -104,8 +111,9 @@ A chatbot built on Chat GPT technology can provide assistance for users with var
 The biggest challenges in this project were building the chatbot and developing its underlying logic, as well as implementing the dark mode feature for the app.
 
 ## Future work
+The future of the app includes analyzing the behavior and needs of the elderly population, and also providing interactive and engaging solutions to common problems they may face with their appliances. This includes implementing voice-based instructions, adding more visual aids such as images, and making the troubleshooting process more user-friendly. The goal is to make technology more accessible and understandable for older adults, allowing them to live more independently and efficiently.
 
-
+Moreover, including an online store where older people can purchase appliances that meet their specific needs and requirements.Integration with smart home technology: The app could be integrated with smart home technology, such as Amazon Alexa or Google Home, to make it easier for older people to control their appliances and other devices.
 
 ## More explanation
 # Technical Overview of ElderlyEase2023: An In-Depth Look at the Code
